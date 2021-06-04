@@ -1,4 +1,4 @@
-package guru.sfg.brewery.security;
+package guru.sfg.brewery.domain.security;
 
 import lombok.*;
 

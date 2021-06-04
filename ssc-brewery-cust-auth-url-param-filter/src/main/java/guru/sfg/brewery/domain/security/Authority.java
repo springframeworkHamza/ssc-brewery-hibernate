@@ -1,5 +1,6 @@
-package guru.sfg.brewery.security;
+package guru.sfg.brewery.domain.security;
 
+import guru.sfg.brewery.domain.security.User;
 import lombok.*;
 
 import javax.persistence.*;
